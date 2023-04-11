@@ -17,8 +17,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - this project is a really good exercise for begiiners to work with minimal cards in html  & css;
 
 ### Links
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: (https://your-live-site-url.com)
+- Solution URL: (https://github.com/Mdxr/QR-Code-Front-end-Mentor)
+- Live Site URL: (https://mdxr.github.io/QR-Code-Front-end-Mentor/)
 
 ### Built with
 
@@ -31,7 +31,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - border-radius of parent elements should be greater than the childern to look visually Accurate.
  
 ## Author
-
+- Github - [@mdxr](https://github.com/Mdxr)
 - Frontend Mentor - [@mdxr](https://www.frontendmentor.io/profile/mdxr)
 - Instagram - [@jsnexus](https://instagram.com/jsnexus)
 
